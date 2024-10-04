@@ -1,9 +1,9 @@
 // Question 02:
-let studentName: string = 'Rameez Ramzy';
+let studentName: string = 'Shahzain Farooqi';
 console.log(`Hello! ${studentName} Would you like to learn some TypeScript today?`);
 
 // Question 03:
-let userName: string = 'Rameez sheikh';
+let userName: string = 'Shahzain Farooqi';
 //Convert into LowerCase:
 let lowerCaseName = userName.toLowerCase();
 console.log('LowerCase:', lowerCaseName);
